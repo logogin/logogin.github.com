@@ -1,2 +1,0 @@
-logogin.github.com
-==================
